@@ -1,4 +1,4 @@
-## Task : Scrolling Text
+## Homework : Layout
 
 <br/>
-<img src="gif/Week3-task_gif.gif">
+<img src="gif/Week3-homework_gif.gif">
